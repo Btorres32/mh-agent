@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mh-agent/static/css/main.e6b69ab6.css",
+    "main.js": "/mh-agent/static/js/main.9cf7e08d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/mh-agent/static/js/787.28cb0dcd.chunk.js",
+    "static/media/community1920_1080.jpg": "/mh-agent/static/media/community1920_1080.85ac21d32f116eb19a46.jpg",
+    "index.html": "/mh-agent/index.html",
+    "main.e6b69ab6.css.map": "/mh-agent/static/css/main.e6b69ab6.css.map",
+    "main.9cf7e08d.js.map": "/mh-agent/static/js/main.9cf7e08d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/mh-agent/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6b69ab6.css",
+    "static/js/main.9cf7e08d.js"
+  ]
+}
