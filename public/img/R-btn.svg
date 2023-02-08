@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 233 230" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-669.386,-468.45)">
+        <g transform="matrix(1,0,0,1,-416.768,-4.49166)">
+            <path d="M1318.77,530.244C1318.77,498.618 1293.09,472.941 1261.47,472.941L1143.46,472.941C1111.83,472.941 1086.15,498.618 1086.15,530.244L1086.15,644.851C1086.15,676.477 1111.83,702.154 1143.46,702.154L1261.47,702.154C1293.09,702.154 1318.77,676.477 1318.77,644.851L1318.77,530.244Z"/>
+        </g>
+        <g id="R" transform="matrix(1,0,0,1,-361.569,66.3277)">
+            <g transform="matrix(1.06869,0,0,1.06869,503.973,311.474)">
+                <path d="M601.942,103.012L695.575,171.039L659.81,281.111L544.074,281.111L508.31,171.039L601.942,103.012Z" style="fill:rgb(255,116,119);"/>
+            </g>
+            <g transform="matrix(1,0,0,1.08065,521.182,312.298)">
+                <text x="560.615px" y="254.452px" style="font-family:'Elephant-Regular', 'Elephant', serif;font-size:138.805px;fill:white;stroke:white;stroke-width:0.96px;">R</text>
+            </g>
+        </g>
+    </g>
+</svg>
